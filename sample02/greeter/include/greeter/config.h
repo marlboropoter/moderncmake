@@ -12,4 +12,6 @@
 #	  define GREETER_API
 #    endif
 #  endif
+#else
+#  define GREETER_API
 #endif
